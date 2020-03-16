@@ -1,0 +1,21 @@
+{
+  "name": "node-version-checker",
+  "version": "1.0.0",
+  "description": "This project tells the version of node which is in use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adityamalik123/nodeVersion.git"
+  },
+  "keywords": [
+    "node",
+"version",
+"check"
+  ],
+  "author": "Aditya Malik",
+  "license": "OPEN",
+  "homepage": "https://github.com/Adityamalik123/nodeVersion#readme"
+}
